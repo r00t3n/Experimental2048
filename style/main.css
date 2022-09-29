@@ -627,7 +627,7 @@ hr {
         .game-container .game-message a.keep-playing-button {
           display: none; }
       .game-container .game-message.game-won {
-        background: rgba(237, 194, 46, 0.5);
+        background: rgba(157, 124, 17, 0.5);
         color: #f9f6f2; }
         .game-container .game-message.game-won a.keep-playing-button {
           display: inline-block; }
